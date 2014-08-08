@@ -12,7 +12,7 @@ extension NSRegularExpression {
                 firstIndex=num
             }
             else {
-                strLength = num + 1
+                strLength = num
             }
             num++
             
